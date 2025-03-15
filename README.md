@@ -4,7 +4,7 @@
 
 This is a plugin that enables automatic positioning of target nodes by searching for keywords within Obsidian Canvas.
 
-![image][https://github.com/Howie723/Canvas-Search/blob/master/IMG_Function/Canvas%20Search%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA.gif]
+![image](https://github.com/Howie723/Canvas-Search/blob/master/IMG_Function/Canvas%20Search%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA.gif)
 
 ## 主要功能 FUNCTIONS
 
